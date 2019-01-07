@@ -3,6 +3,7 @@ This repository contains an example of handling a finite subscription.
 For the client directory, change the package.json to point to react-apollo and apollo-client with the following changes.
 
 https://github.com/apollographql/react-apollo/pull/2716
+
 https://github.com/apollographql/apollo-client/pull/4290
 
 To run the server:
