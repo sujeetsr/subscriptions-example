@@ -16,6 +16,7 @@ To run the server:
 The server runs on http://localhost:9001
 
 To run the client:
+
 `cd client`
 
 `npm install`
