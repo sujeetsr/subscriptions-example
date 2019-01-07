@@ -7,8 +7,6 @@ import { WebSocketLink } from 'apollo-link-ws';
 
 import { Subscription } from 'react-apollo';
 
-// import SubscriptionWithComplete from './SubscriptionWithComplete';
-
 import { getMainDefinition } from 'apollo-utilities';
 import { ApolloProvider } from "react-apollo";
 import gql from "graphql-tag";
